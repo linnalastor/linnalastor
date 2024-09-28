@@ -1,4 +1,4 @@
-I am contributing to the open-source project, Job Arranger for Zabbix.<br>I have a passion for problem-solving.I am actively working on implementing automation for regression testing.<br>I am currently learning Python-Django to expand my development skills.
+I am contributing to the open-source project, Job Arranger for Zabbix.<br>I am actively working on implementing automation for regression testing.<br>I am currently learning Python-Django to expand my development skills.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/linnalastor) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linnalastor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linnalastor) 
 
